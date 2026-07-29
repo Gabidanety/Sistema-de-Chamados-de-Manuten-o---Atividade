@@ -25,7 +25,7 @@ Aprender e aplicar conceitos práticos de desenvolvimento web assistido por IA G
 | **GitHub** | Repositório de código fonte e controle de versão |
 | **Vercel** | Plataforma de hospedagem e deploy contínuo do projeto |
 
----
+--- teste
 
 ## 📋 Funcionalidades do Sistema
 

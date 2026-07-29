@@ -27,6 +27,7 @@ interface ChamadoDetalhesModalProps {
   onDeleteTicket?: (ticketId: string) => void;
 }
 
+
 export const ChamadoDetalhesModal: React.FC<ChamadoDetalhesModalProps> = ({
   isOpen,
   onClose,
